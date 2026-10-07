@@ -1,6 +1,5 @@
 # Employee Attrition Analyzer
 
-**Lab 7 — Open Ended Lab (Machine Learning)**
 
 | | |
 |---|---|
